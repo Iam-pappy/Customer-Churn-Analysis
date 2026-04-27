@@ -35,7 +35,7 @@ This project analyzes customer churn for a telecommunications company using the 
 4. Bundle security + support free for first year
 
 📊 Dashboard Preview
-![Dashboard Screenshot](<img width="1221" height="724" alt="Screenshot 2026-04-27 113158" src="https://github.com/user-attachments/assets/e49362d6-dba4-4300-8cd5-1d9c0443e52d" />)
+!(<img width="1221" height="724" alt="Screenshot 2026-04-27 113158" src="https://github.com/user-attachments/assets/e49362d6-dba4-4300-8cd5-1d9c0443e52d" />)
 
 👤 Author
 [Afolabi Saheed] - Data Analysis Project for Idealnovate Data School
